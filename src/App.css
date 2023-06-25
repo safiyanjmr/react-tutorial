@@ -5,3 +5,8 @@
     padding: 10px;
     border-radius: 5px;
 }
+
+.container {
+    max-width: 1080px;
+    margin: auto
+}
