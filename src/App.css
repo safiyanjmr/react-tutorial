@@ -1,12 +1,12 @@
 .btn {
-    all: unset;
-    background-color: #333;
-    color: #ddd;
-    padding: 10px;
-    border-radius: 5px;
+  all: unset;
+  background-color: #333;
+  color: #ddd;
+  padding: 10px;
+  border-radius: 5px;
 }
 
-.container {
-    max-width: 1080px;
-    margin: auto
+.square {
+  /* border-radius: 0px; */
+  /* border-style: solid; */
 }

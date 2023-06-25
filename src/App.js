@@ -1,16 +1,8 @@
-import { useState } from "react";
 import "./App.css";
-import Button from "./Component/Button";
+import Board from "./Component/Board";
 
 function App() {
-  const [count, setCount] = useState(0);
-  const name = "musa";
-  return (
-    <div>
-      <p>App</p>
-      <Button data={name} count={count} setCount={setCount} />
-    </div>
-  );
+  return <Board />;
 }
 
 export default App;
